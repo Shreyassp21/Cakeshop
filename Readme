@@ -1,0 +1,12 @@
+Read me file
+
+User should be register 1st to sign 
+Log in by using email and password
+
+http://localhost:8080/api/customers it will give all the data stored in customer
+Registration of Admin is done manually and have to login by admin pwd and username.
+for customer you have fill the registration form. then have to use log in page and can book the cake by seeing the products. 
+
+http://localhost:8080/api/orders
+this will give you order details like when to deliver where to deliver any msg or quantity and status and also gives product details like how much kg of cake,cake name ,category like bday and price.
+and customer details name,address,email,mob no. 
